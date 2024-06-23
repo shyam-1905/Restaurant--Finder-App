@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shyam-1905/restaurant-finder-app.git
+   git clone https://github.com/shyam-1905/Restaurant--Finder-App.git
    cd restaurant-finder-app
    ```
 
