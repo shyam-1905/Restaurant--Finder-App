@@ -6,7 +6,7 @@ import {notFound,useRouter} from 'next/navigation'
 import { normalizeString, isEqualNormalized } from '@/app/utils/utils';
 
 // Component for displaying restaurant results based on city and state
-const resultpage = ({params}) => {
+const ResultPage = ({params}) => {
   const router = useRouter();
   // Normalize city and state from URL parameters
   let city =  normalizeString(params.slug[0])
@@ -85,4 +85,4 @@ const resultpage = ({params}) => {
   )
 }
 
-export default resultpage
+export default ResultPage

@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation';
 import Head from 'next/head';
 import { normalizeString} from '@/app/utils/utils';
 
-export default function Home() {
+export default function SearchPage() {
   // State for selected city and state
   const [city, setCity] = useState('');
   const [state, setState] = useState('');
