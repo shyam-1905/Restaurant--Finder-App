@@ -1,5 +1,5 @@
 
-```markdown
+
 # Restaurant Finder App
 
 Welcome to the Restaurant Finder App! This Next.js 14 web application helps users find restaurants based on their dietary preferences across different cities and states in the United States.
@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/restaurant-finder-app.git
+   git clone https://github.com/shyam-1905/Restaurant--Finder-App.git
    cd restaurant-finder-app
    ```
 
