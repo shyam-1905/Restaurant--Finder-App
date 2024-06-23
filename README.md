@@ -15,7 +15,7 @@ Welcome to the Restaurant Finder App! This Next.js 14 web application helps user
 - **Frontend:** React.js, Next.js 14 (with App Router)
 - **Styling:** Tailwind CSS
 - **Data Management:** JSON data (dummy restaurant data)
-
+```
 ## Setup Instructions
 
 To run this project locally, follow these steps:
